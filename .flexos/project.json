@@ -1,22 +1,19 @@
 {
-  "id": null,
-  "name": "{{project_name}}",
-  "slug": "{{project_slug}}",
+  "id": "b4197e04-efeb-4c95-bf3e-eca97778dc3b",
+  "name": "Test-playground-new",
+  "slug": "test-playground-new",
   "description": "",
   "tagline": "",
   "tags": [],
-
   "owner": {
-    "id": null,
-    "email": null
+    "id": "aGu4iZ1BmaNyh41nP8cmchZDl7U2",
+    "email": "demo1@demo.com"
   },
-
   "status": "active",
   "visibility": "private",
-
   "brand": {
-    "themeColor": "{{theme_color}}",
-    "theme": "default",
+    "themeColor": "#8b5cf6",
+    "theme": "synthwave",
     "logo": null,
     "favicon": null,
     "openGraph": {
@@ -25,26 +22,22 @@
       "image": null
     }
   },
-
   "deploy": {
     "rootMode": "prototype",
     "prototypeEnabled": true,
-    "vercelDomain": null,
+    "vercelDomain": "test-playground-new-46o20g.flexos.site",
     "customDomain": null
   },
-
   "github": {
-    "repoOwner": null,
-    "repoName": null,
+    "repoOwner": "flexos-projects",
+    "repoName": "test-playground-new-46o20g",
     "branch": "main",
-    "url": null
+    "url": "https://github.com/flexos-projects/test-playground-new-46o20g"
   },
-
   "vercel": {
     "projectId": null,
     "productionUrl": null
   },
-
   "techStack": {
     "framework": "nuxt4",
     "hosting": "vercel",
@@ -52,13 +45,11 @@
     "auth": "better-auth",
     "css": "open-props"
   },
-
   "settings": {
     "defaultFocusMode": true,
     "autoSave": true,
     "aiModel": "gemini-flash"
   },
-
-  "createdAt": "{{created_at}}",
-  "updatedAt": "{{created_at}}"
+  "createdAt": "2026-03-24T07:02:25.518Z",
+  "updatedAt": "2026-03-24T07:02:25.518Z"
 }
